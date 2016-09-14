@@ -1,6 +1,6 @@
 <apex:page controller="HelloWorldController">
   <!-- Begin Default Content REMOVE THIS -->
-  <h1>Hello WorldV5</h1>
+  <h1>Hello WorldV7</h1>
   This is your new Page
   <!-- End Default Content REMOVE THIS -->
 </apex:page>
