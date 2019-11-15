@@ -6,4 +6,4 @@ COPY . .
 
 RUN ls
 
-RUN echo 'Kiran Machhewar'
+CMD echo "Kiran Machhewar"
