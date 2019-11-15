@@ -14,3 +14,4 @@ variables:
 steps:
 -  script:
      docker build -f Dockerfile -t foobar.azurecr.io/hello:world .
+     docker run foobar.azurecr.io/hello:world
