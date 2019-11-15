@@ -13,5 +13,5 @@ variables:
 
 steps:
 -  script:
-     docker build -tag sfdeploy:test1 .
+     docker build -t sfdeploy .
      docker run sfdeploy:test
