@@ -14,4 +14,3 @@ variables:
 steps:
 -  script:
      docker build -t sfdeploy .
-     docker run sfdeploy:test
