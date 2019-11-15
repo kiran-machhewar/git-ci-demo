@@ -13,4 +13,4 @@ variables:
 
 steps:
 -  script:
-     docker run -it hello-world
+     docker run hello-world
