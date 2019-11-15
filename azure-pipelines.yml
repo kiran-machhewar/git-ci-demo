@@ -13,4 +13,4 @@ variables:
 
 steps:
 -  script:
-     docker build -t sfdeploy .
+     docker build -f Dockerfile -t foobar.azurecr.io/hello:world .
