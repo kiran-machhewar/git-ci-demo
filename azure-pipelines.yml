@@ -13,4 +13,5 @@ variables:
 
 steps:
 -  script:
-     docker run hello-world
+     docker -f Dockerfile build -t sfdeploy:test1 .
+     docker run sfdeploy:test
