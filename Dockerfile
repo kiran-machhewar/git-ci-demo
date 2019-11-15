@@ -10,4 +10,4 @@ RUN cd git-ci-demo
 
 RUN ls
 
-CMD echo "Kiran Machhewar"
+CMD sfdx force --help
